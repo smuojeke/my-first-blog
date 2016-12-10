@@ -1,0 +1,10 @@
+<!doctype html>
+<meta charset="utf-8">
+<html>
+<body>
+<form method="POST">
+<input type="text" name="username">
+<input type="submit" name="submit">
+</form>
+</body>
+</html>
